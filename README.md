@@ -1,16 +1,38 @@
-## Hi there 👋
+### Olá, eu sou a Gabriela 👋
 
-<!--
-**gabyrodriguescunha-ui/gabyrodriguescunha-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora back-end formada pelo SENAI, atualmente estudando front-end e ampliando minha stack.
 
-Here are some ideas to get you started:
+🚀 Estou em transição de carreira e em busca de oportunidades como desenvolvedora Back-end/Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo constantemente: API REST, JavaScript, HTML, CSS, Java e JavaFX.
+
+---
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-orange?style=flat" />
+</p>
+
+---
+
+<!-- ### 📌 Projetos em destaque
+
+- **[Pokédex](https://github.com/gabyrodriguescunha-ui)** — Consumo da PokeAPI com JavaScript, busca de Pokémon e montagem de equipe.
+- **[PDV Geladinho](https://github.com/gabyrodriguescunha-ui)** — Sistema de ponto de venda para sorveteria, em TypeScript.
+- **[Loja dos Livros](https://github.com/gabyrodriguescunha-ui)** — Loja virtual com HTML/Bootstrap e carrinho de compras em JavaScript.
+- **[Dashboard de Supermercados](https://github.com/gabyrodriguescunha-ui)** — Dashboard com Chart.js consumindo dados em JSON.
+
+*(atualize os links acima para apontar direto para cada repositório)*
+
+--- -->
+
+### 📫 Como me encontrar
+
+<!-- - LinkedIn: [seu link aqui] -->
+- E-mail: gaby.rodrigues.cunha@hotmail.com
