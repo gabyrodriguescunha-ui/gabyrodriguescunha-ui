@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gabyrodriguescunha-ui&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyrodriguescunha-ui&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 ---
  
 <!-- ### ✨ Um pouco mais sobre mim
