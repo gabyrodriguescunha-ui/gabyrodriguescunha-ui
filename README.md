@@ -5,6 +5,7 @@
 - 🚀 Estou em transição de carreira e em busca de oportunidades como desenvolvedora Back-end/Front-end.
 - 🌱 Aprendendo constantemente: API REST, JavaScript, HTML, CSS, Java e JavaFX.
 - 📚 Nas horas vagas, sempre com um livro na mão.
+
 ---
  
 ### 🛠️ Stack
