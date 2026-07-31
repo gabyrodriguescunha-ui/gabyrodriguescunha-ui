@@ -6,7 +6,9 @@
 - 🌱 Aprendendo constantemente: API REST, JavaScript, HTML, CSS, Java e JavaFX.
 - 📚 Nas horas vagas, sempre com um livro na mão.
 
+
 ---
+
  
 ### 🛠️ Stack
  
