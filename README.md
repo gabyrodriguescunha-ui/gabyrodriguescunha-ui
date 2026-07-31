@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20formação%20%7C%20apaixonada%20por%20código%20e%20histórias&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20formação%20%7C%20apaixonada%20por%20código%20e%20histórias&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 - 💻 Desenvolvedora back-end formada pelo SENAI, atualmente estudando front-end e ampliando minha stack.
