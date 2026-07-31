@@ -26,6 +26,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyrodriguescunha-ui&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 <!-- ### 📌 Projetos em destaque
 
 - **[Pokédex](https://github.com/gabyrodriguescunha-ui)** — Consumo da PokeAPI com JavaScript, busca de Pokémon e montagem de equipe.
