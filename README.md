@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Full%20Stack%20Júnior%20%7C%20Java%20%26%20Angular&descAlignY=56&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Full%20Stack%20%7C%20Jornalista&descAlignY=55&descSize=18"
     width="100%"
-    alt="Apresentação de Gabriela Rodrigues"
+    alt="Gabriela Rodrigues — Desenvolvedora Full Stack e Jornalista"
   />
 </p>
 
@@ -34,7 +34,7 @@ Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular e TypeScript
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" alt="Ferramentas de desenvolvimento" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Ferramentas de desenvolvimento" />
 </p>
 
 ---
@@ -76,17 +76,12 @@ Página responsiva desenvolvida para divulgação de um evento de fotografia, co
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=gabyrodriguescunha-ui&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyrodriguescunha-ui&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
+  <a href="https://github.com/gabyrodriguescunha-ui">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabyrodriguescunha-ui&theme=tokyonight"
+      alt="Resumo do perfil de Gabriela Rodrigues"
+    />
+  </a>
 </p>
 
 ---
