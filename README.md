@@ -1,43 +1,116 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20formação%20%7C%20apaixonada%20por%20código%20e%20histórias&descAlignY=55&descSize=18" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Olá,%20eu%20sou%20a%20Gabriela!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Full%20Stack%20Júnior%20%7C%20Java%20%26%20Angular&descAlignY=56&descSize=18"
+    width="100%"
+    alt="Apresentação de Gabriela Rodrigues"
+  />
 </p>
 
-- 💻 Desenvolvedora back-end formada pelo SENAI, atualmente estudando front-end e ampliando minha stack.
-- 🚀 Estou em transição de carreira e em busca de oportunidades como desenvolvedora Back-end/Front-end.
-- 🌱 Aprendendo constantemente: API REST, JavaScript, HTML, CSS, Java e JavaFX.
-- 📚 Nas horas vagas, sempre com um livro na mão.
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora em transição de carreira, unindo minha experiência com comunicação, criatividade e produção visual ao desenvolvimento de soluções digitais.
+
+🎓 Formada em Desenvolvimento Front-end e Back-end pelo SENAI  
+🚀 Em busca da minha primeira oportunidade como Desenvolvedora Júnior  
+
+Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular e TypeScript**, sempre buscando transformar o aprendizado em aplicações funcionais e bem organizadas.
 
 ---
 
-### 🛠️ Stack
+## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-orange?style=flat" />
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" alt="Tecnologias de front-end" />
+</p>
+
+### Back-end e banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" alt="Tecnologias de back-end" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" alt="Ferramentas de desenvolvimento" />
 </p>
 
 ---
 
-### 📌 Projetos em destaque
+## 📌 Projetos em destaque
 
-- **[Pokédex](https://github.com/gabyrodriguescunha-ui)** — Consumo da PokeAPI com JavaScript, busca de Pokémon e montagem de equipe.
-- **[PDV Geladinho](https://github.com/gabyrodriguescunha-ui)** — Sistema de ponto de venda para sorveteria, em TypeScript.
-- **[Loja dos Livros](https://github.com/gabyrodriguescunha-ui)** — Loja virtual com HTML/Bootstrap e carrinho de compras em JavaScript.
-- **[Dashboard de Supermercados](https://github.com/gabyrodriguescunha-ui)** — Dashboard com Chart.js consumindo dados em JSON.
+### 🌱 [Cultiva Gestão](https://github.com/gabyrodriguescunha-ui/cultiva-gestao)
 
-<!-- Lembrete: atualizar os links acima para apontar direto para cada repositório -->
+Sistema de gestão desenvolvido para pequenos produtores e comércios de plantas. Possui controle de produtos, estoque, vendas e diferentes níveis de acesso.
 
+**Tecnologias:** Angular, TypeScript, Reactive Forms, Signals e LocalStorage.
+
+### 🌸 [Agência de Viagens](https://github.com/gabyrodriguescunha-ui/agencia-viagem)
+
+Aplicação de uma agência especializada em viagens para o Japão, com apresentação de roteiros, reservas e área administrativa.
+
+**Tecnologias:** Angular, TypeScript, HTML e CSS.
+
+### 🐾 [Adota Mais](https://github.com/gabyrodriguescunha-ui/Adota-Mais)
+
+Sistema para gerenciamento de adoções de animais, com cadastro e acompanhamento de informações de adotantes.
+
+**Tecnologias:** Java, Spring Boot, JavaFX e PostgreSQL.
+
+### 📷 [E-commerce de Produtos Fotográficos](https://github.com/gabyrodriguescunha-ui/EcommerceAngular)
+
+Loja virtual com catálogo de produtos, pesquisa, controle de estoque, promoções, carrinho e finalização de compra.
+
+**Tecnologias:** Angular, TypeScript, Angular Material e Reactive Forms.
+
+### 📸 [Evento de Fotografia](https://github.com/gabyrodriguescunha-ui/EventoFotografia)
+
+Página responsiva desenvolvida para divulgação de um evento de fotografia, com foco em organização visual e estilização.
+
+**Tecnologias:** HTML, SCSS e JavaScript.
 
 ---
 
-### 📫 Como me encontrar
-
-- E-mail: gaby.rodrigues.cunha@hotmail.com
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=gabyrodriguescunha-ui&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyrodriguescunha-ui&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:gaby.rodrigues.cunha@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriela-rodrigues-b7289119a/">
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Aberta a oportunidades, conexões e novos desafios na área de tecnologia.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"
+    width="100%"
+    alt="Rodapé"
+  />
 </p>
