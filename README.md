@@ -72,6 +72,12 @@ Página responsiva desenvolvida para divulgação de um evento de fotografia, co
 
 **Tecnologias:** HTML, SCSS e JavaScript.
 
+### 📺 [Gabiflix](https://github.com/gabyrodriguescunha-ui/Gabiflix)
+
+Aplicação mobile para acompanhamento de séries, permitindo organizar listas pessoais, acompanhar temporadas e marcar episódios assistidos, com registro de datas e próximos lançamentos.
+
+**Tecnologias:** React Native, TypeScript e Expo.
+
 ---
 
 ## 📊 GitHub
