@@ -13,7 +13,7 @@ Sou desenvolvedora em transição de carreira, unindo minha experiência com com
 🎓 Formada em Desenvolvimento Front-end e Back-end pelo SENAI
 📈 Cursando Marketing Digital
 
-Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular e TypeScript**, sempre buscando transformar o aprendizado em aplicações funcionais e bem organizadas.
+Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular, TypeScript, React native**, sempre buscando transformar o aprendizado em aplicações funcionais e bem organizadas.
 
 ---
 
