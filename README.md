@@ -10,8 +10,8 @@
 
 Sou desenvolvedora em transição de carreira, unindo minha experiência com comunicação, criatividade e produção visual ao desenvolvimento de soluções digitais.
 
-🎓 Formada em Desenvolvimento Front-end e Back-end pelo SENAI  
-🚀 Em busca da minha primeira oportunidade como Desenvolvedora Júnior  
+🎓 Formada em Desenvolvimento Front-end e Back-end pelo SENAI
+📈 Cursando Marketing Digital
 
 Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular e TypeScript**, sempre buscando transformar o aprendizado em aplicações funcionais e bem organizadas.
 
