@@ -20,10 +20,10 @@ Tenho desenvolvido projetos utilizando **Java, Spring Boot, Angular, TypeScript,
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Front-end
+### Front-end e Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" alt="Tecnologias de front-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,react" alt="Tecnologias de front-end e mobile" />
 </p>
 
 ### Back-end e banco de dados
